@@ -1,4 +1,4 @@
-import App from "./app/app";
+import App from "./app";
 
 // Load values from our config.env file, if it exists
 // Note: this is only really for dev convenience, you should import these differently in prod
